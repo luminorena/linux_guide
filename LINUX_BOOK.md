@@ -97,7 +97,7 @@ _Вывод названия текущего рабочего каталога_
 Вывод содержимого домашнего каталога, а также /usr
 ![image](https://github.com/user-attachments/assets/876a26ae-86b8-4b21-aae0-73b5ed5e4ec6) <br>
 Изменение формата вывода: команда ls -l предоставляет длинный (-l --->> long) форма вывода <br>
-![image](https://github.com/user-attachments/assets/a51476b1-3a3d-4a48-a048-26e2ac454c80) <br>
+![image](https://github.com/user-attachments/assets/7a2065f8-47e3-440f-8ca8-9c1cbe911809) <br>
 
 ## Глава 4. Операции с файлами и каталогами
 
