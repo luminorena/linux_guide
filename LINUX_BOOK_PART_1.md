@@ -1446,7 +1446,7 @@ sudo apt install gnome-system-tools
 
 Затем перезагрузить компьютер, так как должны правильно подтянуться все переменные окружения. 
 
-Если выдается ошибка, но прописать
+Если выдается ошибка, то прописать
 
 export DISPLAY=:0
 export XAUTHORITY=/home/olga/.Xauthority
